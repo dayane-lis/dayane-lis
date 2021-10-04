@@ -4,6 +4,7 @@
 **dayane-lis/dayane-lis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on UNIFESP
 - 🌱 I’m currently learning programming and front-end. 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I'm an apprentice. 
 - 😄 Pronouns: she/her. :woman:
 - ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile:
--->
+
