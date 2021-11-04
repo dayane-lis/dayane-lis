@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 ### Estou aprendendo :computer: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+
 
 
 ### Contatos :e-mail:
@@ -35,11 +34,15 @@ Here are some ideas to get you started:
 </div>
 
 
+
+
 <div>
 <a href="https://github.com/dayane-lis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-lis&layout=compact&langs_count=7&theme=panda"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayane-lis&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
+  
+  
   
   
   ![Snake animation](https://github.com/dayane-lis/dayane-lis/blob/output/github-contribution-grid-snake.svg)
