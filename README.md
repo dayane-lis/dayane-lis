@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
 - 🤔 I’m looking for help with programming Javascript, Python, etc...
 - 😄 Pronouns: she/her. :woman:
-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile:
+<!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
 
 
 ### What I am currently learning :computer: 
