@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on UNIFESP
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
 - 🤔 I’m looking for help with programming Javascript, Python, etc...
-- 📫 How to reach me: I'm an apprentice. 
 - 😄 Pronouns: she/her. :woman:
 - ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile:
 
