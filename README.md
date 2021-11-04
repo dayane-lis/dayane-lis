@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/dayane-lis">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dayane-lis&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-lis&layout=compact&langs_count=7&theme=bear"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-lis&layout=compact&langs_count=7&theme=bear"/>
 </div>
   
   
