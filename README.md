@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 <!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
 
 
-### What I am currently learning :computer: 
-
+<!-- ### What I am currently learning :computer:  -->
+<div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img align="right" alt="Day-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_DTa4meuL.png">
+</div>
 
 
 
-### Contacts :e-mail:
+##
+<!-- ### Contacts :e-mail: -->
 
 <div>
 <a href="https://instagram.com/dayane_lis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,6 +32,8 @@ Here are some ideas to get you started:
 </div>
 
 
+
+##
 
 ### My stats 
 <div>
