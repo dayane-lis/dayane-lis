@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <img align="right" alt="Day-pic" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_DTa4meuL.png">
 </div>
 
-##
+<!-- ##
 ### My Skills 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img align="right" alt="Day-pic" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_DTa4meuL.png">
-</div>
-
+</div> -->
 
 ##
 ### Contacts :e-mail:
