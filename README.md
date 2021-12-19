@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 </div>
 
 <!-- ##
-### My Skills 
+### My Skills :woman_technologist:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</div> -->
-
+</div>
+ -->
 ##
 ### Contacts :e-mail:
 <div>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 ##
-### My stats 
+### My stats :bar_chart:
 <div>
   <a href="https://github.com/dayane-lis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dayane-lis&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
