@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her. :woman:
 <!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
 
-
 ##
 ### What I am currently learning :computer: 
 <div style="display: inline_block"><br>
@@ -30,15 +29,16 @@ Here are some ideas to get you started:
  <img align="right" alt="computer" height="200" style="border-radius:90px;" src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif">
 </div>
 
+
 ##
 ### Contacts :e-mail:
 <div>
 <a href="https://instagram.com/dayane_lis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/dayanelis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://gitlab.com/dayane-lis/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 <a href = "mailto:day.nemesis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dayane-silva-0a41b755" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 ##
 ### My stats :bar_chart:
