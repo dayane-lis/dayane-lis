@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<div>
- <img align="right" alt="girl-anime" height="200" style="border-radius:90px;" src="https://c.tenor.com/cz070y7kKJkAAAAC/anime-anime-girl.gif">
-</div>
+<div><img align="right" alt="girl-anime" height="200" style="border-radius:90px;" src="https://c.tenor.com/pEVZJBfnadcAAAAM/kawaii-cute.gif"></div>
 
  
 - 🔭 I’m currently working on UNIFESP
