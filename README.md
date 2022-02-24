@@ -5,24 +5,31 @@
 
 Here are some ideas to get you started:
 -->
+<div>
+ <img align="right" alt="girl-anime" height="200" style="border-radius:90px;" src="https://c.tenor.com/cz070y7kKJkAAAAC/anime-anime-girl.gif">
+</div>
 
+ 
 - 🔭 I’m currently working on UNIFESP
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
 - 🤔 I’m looking for help with programming Javascript, Python, etc...
 - 😄 Pronouns: she/her. :woman:
 <!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
+
+
 ##
 ### What I am currently learning :computer: 
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="40" height="40"/>
- 
-<img align="right" alt="girl-anime" height="200" style="border-radius:90px;" src="https://c.tenor.com/cz070y7kKJkAAAAC/anime-anime-girl.gif">
-</div>
+</div> 
+
 
 ##
 ### My Skills :woman_technologist:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+ 
+ <img align="right" alt="computer" height="200" style="border-radius:90px;" src="https://64.media.tumblr.com/3f8f5632b1dcd63f95a0e252c7d76774/tumblr_pejvi8ZjpB1tlkklno1_500.gifv">
 </div>
 
 ##
