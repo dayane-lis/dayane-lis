@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<div><img align="right" alt="girl-anime" height="260" style="border-radius:90px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"></div>
+<div><img align="right" alt="girl-anime" height="240" style="border-radius:90px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"></div>
 
  
 - 🔭 I’m currently working on UNIFESP
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
  
- <img align="right" alt="computer" height="180" style="border-radius:90px;" src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif">
+ <img align="right" alt="computer" height="170" style="border-radius:90px;" src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif">
 </div>
 
 
