@@ -1,4 +1,4 @@
-### 👋 Hello! My name is Dayane. Welcome to my Github profile!
+### 👋 Hello! My name is Dayane. Welcome to my GitHub profile!
 
 <!--
 **dayane-lis/dayane-lis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
