@@ -30,6 +30,11 @@ Here are some ideas to get you started:
  <img align="right" alt="computer" height="170" style="border-radius:90px;" src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif">
 </div>
 
+##
+### My Badges :medal_sports:
+<div>
+ <img src="https://media.discordapp.net/attachments/963548819256123434/963549154204864563/Badge_Alura_Challenge_FRONT-END_First_v2.png?width=468&height=468" width="150" height="150"/>
+
 
 ##
 ### Contacts :e-mail:
