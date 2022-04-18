@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My Badges :medal_sports:
 <div>
  <img src="https://media.discordapp.net/attachments/963548819256123434/963549154204864563/Badge_Alura_Challenge_FRONT-END_First_v2.png?width=468&height=468" width="150" height="150"/>
+ <img src="https://s4.aconvert.com/convert/p3r68-cdx67/a0prl-cw5q6.png" width="150" height="150" />
+</div> 
 
 
 ##
