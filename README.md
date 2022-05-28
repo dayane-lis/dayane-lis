@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<div><img align="right" alt="girl-anime" height="240" style="border-radius:90px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"></div>
+<br><div><img align="right" alt="girl-anime" height="240" style="border-radius:90px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"></div><br>
 
  
 - 🔭 I’m currently working on UNIFESP
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##
 ### My Skills :woman_technologist:
-<div>
+<div><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br><br><br>
  
 </div>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ##
 ### My stats :bar_chart:
-<div>
+<div><br>
   <a href="https://github.com/dayane-lis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dayane-lis&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-lis&layout=compact&langs_count=7&theme=bear"/>
