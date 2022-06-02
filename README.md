@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 <br><br>
  
-- 🔭 I’m currently working on UNIFESP
+- 🔭 I’m currently working at UNIFESP as an administrative assistant, but I'm interested in changing careers
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
-- 🤔 I’m looking for help with programming Javascript, Python, etc...
+- 🤔 I’m looking for help with programming Javascript, TypeScript, React, etc...
 - 😄 Pronouns: she/her. :woman:
 <!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
 <br><br>
