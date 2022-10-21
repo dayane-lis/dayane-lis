@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at UNIFESP as an administrative assistant, but I'm interested in changing careers
 - 👩🏽‍💻 I'm a Bachelor's student in IT at UNIVESP
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
-- 🤔 I’m looking for help with programming Javascript, TypeScript, React, etc...
+- 🤔 I’m looking for help with programming Javascript, TypeScript, Java, etc...
 - 😄 Pronouns: she/her. :woman:
 <!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
 <br><br>
@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 
 ##
 ### My stats :bar_chart:
-<div><br>
+<div align="center"><br>
   <a href="https://github.com/dayane-lis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dayane-lis&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-lis&layout=compact&langs_count=7&theme=bear"/>
 </div>
  
  ##
- <div>
+ <div align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=dayane-lis&custom_title=Dayane%20Contribution%20Graph&theme=bear&bg_color=282828&hide_border=true&line=ba14e3&point=e3107d" />
  </div>
   
