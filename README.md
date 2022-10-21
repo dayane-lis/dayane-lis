@@ -1,4 +1,4 @@
-### 👋 Hello! My name is Dayane. Welcome to my GitHub profile!
+### 👋🏼 Hello! My name is Dayane. Welcome to my GitHub profile!
 
 <!--
 **dayane-lis/dayane-lis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 <br><br>
  
 - 🔭 I’m currently working at UNIFESP as an administrative assistant, but I'm interested in changing careers
+- 👩🏽‍💻 I'm a Bachelor's student in IT at UNIVESP
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
 - 🤔 I’m looking for help with programming Javascript, TypeScript, React, etc...
 - 😄 Pronouns: she/her. :woman:
