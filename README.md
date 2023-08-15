@@ -51,14 +51,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/dayane-lis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dayane-lis&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayane-lis&layout=compact&langs_count=7&theme=bear"/>
-</div>
+</div> 
  
- ##
- <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=dayane-lis&custom_title=Dayane%20Contribution%20Graph&theme=bear&bg_color=282828&hide_border=true&line=ba14e3&point=e3107d" />
- </div>
-  
-  
-  ## 
-  
-  ![Snake animation](https://github.com/dayane-lis/dayane-lis/blob/output/github-contribution-grid-snake.svg)
