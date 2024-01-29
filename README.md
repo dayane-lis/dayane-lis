@@ -1,3 +1,7 @@
+<img align="center" style="border-radius: 90px;" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="900">
+<br><br>
+
+
 ## 👋🏼 Hello! My name is Dayane. Welcome to my GitHub profile!
 
 <!--
@@ -5,9 +9,8 @@
 
 Here are some ideas to get you started:
 -->
-<div><img align="right" alt="girl-anime" height="240" style="border-radius:90px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"></div>
+<!--<div><img align="right" alt="girl-anime" height="240" style="border-radius:90px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"></div>-->
 
-<br><br>
  
 - 🔭 I’m currently working at UNIFESP as an administrative assistant, but I'm interested in changing careers
 - 👩🏽‍💻 I'm a Computer Engineering student at UNIVESP
@@ -15,6 +18,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with programming Javascript, TypeScript, Java, etc...
 - 😄 Pronouns: she/her. :woman:
 <!-- ⚡ Fun fact: After 20 years I finally started to understand programming. :sweat_smile: -->
+<img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
 <br><br>
 
 ##
