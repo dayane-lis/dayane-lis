@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  
 - 🔭 I’m currently working at UNIFESP as an administrative assistant, but I'm interested in changing careers
-- 👩🏽‍💻 I'm a Computer Engineering student at UNIVESP
+- 👩🏽‍💻 I'm a Computer Engineering student at UNIVESP and front-end student at Digital Innovation One
 - 👯 I’m looking to collaborate on any project where I can learn more about front-end. :raising_hand:
 - 🤔 I’m looking for help with programming Javascript, TypeScript, Java, etc...
 - 😄 Pronouns: she/her. :woman:
